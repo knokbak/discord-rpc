@@ -14,3 +14,6 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 A powerful library for interacting with the Discord API.
 [NPM](https://npmjs.com/package/discord-rpc)
 [Website](https://discord.js.org/#/docs/rpc/)
+
+## Getting started
+To get install all needed packages, use `npm installall`. You can edit any game data in `config.json` and once you've done that, start the application with `npm start`.
