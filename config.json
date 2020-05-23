@@ -10,7 +10,7 @@
         "smallImageText": "I really like text.",
         "instance": false
     },
-    messages: {
+    "messages": {
         "start": "If 'undefined' is returned, make sure Discord is running and is not minimized!",
         "connect": "Now connected to Discord RPC!",
         "norpc": "No RPC data found, returning.",
