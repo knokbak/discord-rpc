@@ -1,0 +1,19 @@
+{
+    "clientID": "some_client_id",
+    "transport": "ipc",
+    "data": {
+        "details": "Some text here",
+        "state": "Some more text here maybe?",
+        "largeImageKey": "AnImageKeyHere",
+        "largeImageText": "Wow, more text??",
+        "smallImageKey": "AnotherImageKeyHere",
+        "smallImageText": "I really like text.",
+        "instance": false
+    },
+    messages: {
+        "start": "If 'undefined' is returned, make sure Discord is running and is not minimized!",
+        "connect": "Now connected to Discord RPC!",
+        "norpc": "No RPC data found, returning.",
+        "update": "Setting/Updating game data."
+    }
+}
