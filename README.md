@@ -3,7 +3,7 @@
 This is a simple Node.JS application that allows you to set your Discord RPC status. Inspiration was taken from Discord.JS's official RPC GitHub although, the code that I have put here is made by me.
 
 ## What can I do with this code?
-You can distribute it as much as you like, this code has been voluntarily put into public domain (more information [here](https://github.com/sysollie/tutorials/blob/master/LICENSE)).
+You can distribute it as much as you like, this code has been voluntarily put into public domain (more information [here](https://github.com/sysollie/discord-rpc/blob/master/LICENSE)).
 
 ## What do I need to run this code?
 ### Node.JS
