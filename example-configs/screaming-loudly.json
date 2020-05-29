@@ -1,0 +1,19 @@
+{
+    "clientID": "710874507790909510",
+    "transport": "ipc",
+    "data": {
+        "details": "Currently screaming",
+        "state": "very loudly",
+        "largeImageKey": "main",
+        "largeImageText": "AAAAAAAAAAAAAAA",
+        "smallImageKey": "small",
+        "smallImageText": "gamer moment",
+        "instance": false
+    },
+    "messages": {
+        "start": "If 'undefined' is returned, make sure Discord is running and is not minimized!",
+        "connect": "Now connected to Discord RPC!",
+        "norpc": "No RPC data found, returning.",
+        "update": "Setting/Updating game data."
+    }
+}
